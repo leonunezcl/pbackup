@@ -1,0 +1,18 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Project Backup 2002 version 1.0.5
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Archivos necesarios para la correcta ejecución de Project Backup :
+
+- stdole2.tlb (OLE Automation)
+- TLBINF32.DLL (TypeLib Information)
+- MSCOMCTL.OCX (Microsoft Windows Common Controls 6.0 (SP4)
+- Runtimes de VB6
+- vbzip10.dll 
+- PVB_XMENU.DLL (PVB6 ActiveX DLL - Menu With Bitmaps !)

@@ -1,0 +1,164 @@
+[General]
+languaje=Español
+Autor=Luis Nuñez Ibarra
+Descrip=15
+Descrip1=Creado por Luis Núñez Ibarra.
+Descrip2=Todos los derechos reservados.
+Descrip3=Santiago de Chile 2000-2002
+Descrip4=
+Descrip5=Respalda todos los archivos relacionados de un proyecto visual basic.
+Descrip6=
+Descrip7=Se distribuye libre de cargo alguno bajo el término de distribución postcardware.
+Descrip8=
+Descrip9=Si le gusta este software apreciaria mucho que me enviara una postal de su ciudad a la siguiente dirección :
+Descrip10=
+Descrip11=        Avda Vicuña Mackenna 7000
+Descrip12=        Depto 204-B
+Descrip13=        Santiago de Chile
+Descrip14=
+Descrip15=vbsoftware no se hace responsable por algún daño ocasionado por el uso de esta aplicación.
+
+[frmAcerca]
+frmAcerca=Acerca de ...
+cmd=&Aceptar
+Label4=Project Explorer
+Label1=Project Backup fue analizado con :
+lblGlosa=Respalda proyectos creados con Microsoft Visual Basic.
+lblProduct=Project Backup Home Page
+lblURL=http://www.vbsoftware.cl
+lblCopyright=Copyright © 2000-2002 Luis Núñez Ibarra
+
+[frmMain]
+frmMain=Project Backup
+cmdlvwsel=Sel.
+cmdlvwarchivo=Archivo
+cmdlvwtipo=Tipo
+cmdlvwtamano=Tamaño
+cmdlvwfecha=Fecha y Hora
+cmdlvwpath=Path
+=
+cmdAbrir=Abrir proyecto visual basic
+cmdRespaldar=Respaldar proyecto
+=
+cmdRemover=Eliminar archivo
+cmdAgregar=Agregar archivo
+=
+cmdPropiedades=Propiedades del archivo
+cmdNet=Ir al sitio web de VBSoftware
+cmdAyuda=Ayuda de la aplicación
+=
+cmdSalir=Salir de la aplicación
+mnuArchivo=&Archivo
+mnuArchivo_Abrir=|Abre un proyecto Visual Basic|&Abrir proyecto ...
+mnuArchivo_Respaldar=|Respaldar proyecto seleccionado|&Respaldar proyecto
+mnuArchivo_sep1=-
+mnuArchivo_Salir=|Salir de la aplicación|&Salir
+mnuArchivo_sep2=-
+mnuArchivo_Proyecto=C:\LNUNEZ\Proyecto\Aplicaciones\Component Manager\CManager.vbp
+mnuEdicion=&Edición
+mnuEdicion_Agregar=|Agregar archivo al proyecto seleccionado|&Agregar archivo
+mnuEdicion_Eliminar=|Eliminar archivo del proyecto seleccionado|&Eliminar archivo
+mnuEdicion_sep1=-
+mnuEdicion_seleccionar=|Seleccionar todos los archivos|&Seleccionar todos ...
+mnuEdicion_Invertir=|Invertir selección de archivos|&Invertir selección
+mnuEdicion_Quitar=|Quitar selección de archivos|&Quitar todos ...
+mnuOpciones=&Opciones
+mnuOpciones_ConfRespaldo=|Configurar opciones a respaldar|&Configurar opciones de respaldo
+mnuOpciones_sep1=-
+mnuOpciones_Idioma=|Seleccionar archivo de lenguaje|Seleccionar idioma ...
+mnuAyuda=&Ayuda
+mnuAyuda_Indice=|Indice de ayuda de la aplicación|&Indice
+mnuAyuda_sep1=-
+mnuAyuda_Acercade=|Información de Copyright de la aplicación|Acerca de ...
+Msg1=Archivos de lenguaje (*.LNG)|*.LNG|
+Msg2=Todos los archivos (*.*)|*.*
+Msg3=Abrir archivo lenguaje ...
+Msg4=Debe seleccionar un proyecto.
+Msg5=Visual Basic 3.0 (*.MAK)|*.MAK|
+Msg6=Visual Basic 4,5,6 (*.VBP)|*.VBP|
+Msg7=Todos los archivos (*.*)|*.*
+Msg8=Agregar archivo ...
+Msg9=Archivos agregados con éxito!
+Msg10=Confirma eliminar archivo.
+Msg11=Debe seleccionar un archivo.
+Msg12=El archivo ya existe.
+Msg13=Confirma eliminar archivo existente.
+Msg14=Se agregaran los archivos al archivo de respaldo
+Msg15=Listo!
+Msg16=Confirma respaldar proyecto.
+Msg17=Proyecto respaldado con éxito!
+Msg18=Debe seleccionar archivos a respaldar.
+Msg19=Proyecto cargado con éxito!
+Msg20=Proyecto no fue cargado.
+Msg21=Abrir proyecto VB ...
+Msg22=Confirma salir de la aplicación.
+
+[frmConfOpc]
+frmConfOpc=Configurar opciones de respaldo
+fra=Opciones Anexas
+chkHlp=Agregar archivos de ayuda (.hlp , .chm)
+chkIni=Agregar archivos de configuración (.ini)
+chkImg=Agregar archivos de imagenes (.ico , .bmp , .gif , .jpg)
+chkRpt=Comprobar existencia de reportes Cristal Reports
+cmdAceptar=&Salir
+cmdSalir=&Aceptar
+fra=Opciones de Compresión
+chkSavInfo=Guardar información de directorio
+chkIncSub=Incluir información de subdirectorios
+
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Backup ...
+fra=Backup files. Wait a moment please ...
+Label1=
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo
+[frmAccion]
+frmAccion=Respaldando ...
+fra=Respaldando archivos. Espere un momento ...
+Label1=lblArchivo

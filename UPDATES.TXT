@@ -1,0 +1,25 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Project Backup 2002 version 1.0.5
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Historial de versiones de Mayor a Menor.
+
+V 1.0.5 Beta
+- Se agregan muchas mejoras, nueva intefaz, se corrigen varios errores, se agrega la opción de agregar archivos desde path, tip del dia y actualización automática de incluir subdirectorios. Ademas ahora las asociaciones de archivos se leen desde el ImageList del sistema.
+
+V 1.0.4 Beta
+- Se corrigen algunos bugs.
+- Se agrega el soporte de archivos de lenguaje.
+
+V 1.0.3 Beta
+- Se corrigen algunos bugs.
+- Se realizan mejoras graficas.
+
+V 1.0.1 Beta
+Primera versión.

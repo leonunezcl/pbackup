@@ -1,0 +1,24 @@
+Para abrir un proyecto Menú Archivo|Abrir Proyecto ... o presionar CTRL-O.
+Para respaldar proyecto Menú Archivo|Respaldar proyecto o presionar CTRL-R.
+Para ver un resumen de los archivos a respaldar Menú Archivo|Resumen de archivos
+Para salir de la aplicación Menú Archivo|Salir o ALT-F4.
+Para agregar archivos al respaldo Edición|Agregar Archivo o presionar CTRL-A.
+Para eliminar archivos al respaldo Edición|Eliminar Archivo o presionar CTRL-D.
+Para agregar archivos desde un path Edición|Archivos desde path ... o presionar CTRL-P.
+Para seleccionar todos los archivos del proyecto Menú Edición|Seleccionar todos o F76.
+Para invertir seleccion de los archivos del proyecto Menú Edición|Invertir selección o F8.
+Para no seleccionar todos los archivos del proyecto Menú Edición|Quitar todos o F9.
+Para respaldar el proyecto debe haber seleccionado archivos. Menú Edición|Seleccionar todos o F7.
+La aplicación automáticamente busca por las siguientes extensiones en el path del archivo : frx,ico,rpt,gif,bmp,hlp y chm.
+Para configurar las opciones de respaldo Menú Opciones|Configurar opciones de respaldo o presionar CTRL-F.
+La casilla incluir subdirectorios busca por todos los archivos que estan dentro del path del proyecto.
+La aplicación reconoce todas las dependencias del proyecto (ocx,dll,tlb,res).
+Al respaldar el proyecto seleccione el path donde se grabaran todos los archivos.
+Botón derecho en la lista de archivos y se despliega las opciones del Menú Edición.
+Para ver las propiedades del archivo a respaldar Menú Edicion|Propiedades de archivo
+Para ver la ayuda de Project Backup F1.
+Para ir a la página web de VBSoftware Menú Ayuda|Ir a VBSoftware o CTRL-W.
+Para escribir un email a VBSoftware Menú Ayuda|Email a VBSoftware o CTRL-E.
+Para ver tips de la aplicación Menú Ayuda|Tip del dia ... o CTRL-T.
+
+

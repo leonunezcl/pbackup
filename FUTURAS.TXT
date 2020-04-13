@@ -1,0 +1,16 @@
+------------------------------------------------------
+VBSoftware - http://www.vbsoftware.cl
+Software libre para desarrolladores Visual Basic
+Santiago de Chile
+2000-2002
+
+Project Backup 2002 version 1.0.5
+Copyright (c) 2000-2002 por Luis Núñez Ibarra.
+------------------------------------------------------
+
+Futuras incorporaciones.
+------------------------
+
+- No tengo ninguna por el momento.
+
+ 

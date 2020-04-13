@@ -1,0 +1,17 @@
+frmMain = 62, 152, 790, 626, C, 0, 0, 0, 0, C
+GCommonDialog = 0, 0, 0, 0, C
+clsGradient = 0, 0, 0, 0, C
+CIni = 0, 0, 0, 0, C
+mMain = 139, 103, 819, 679, C
+mBackup = -10, 29, 802, 641, CZ
+mConstantes = 0, 0, 0, 0, C
+cRegistry = 0, 0, 0, 0, C
+frmAcerca = 139, 103, 627, 679, C, 0, 0, 0, 0, C
+cZip = 139, 103, 627, 679, C
+mZip = 139, 103, 627, 679, C
+mShell = 139, 103, 627, 679, C
+frmAccion = 139, 103, 627, 679, C, 0, 0, 0, 0, C
+frmConfOpc = 139, 103, 911, 679, C, 0, 0, 0, 0, C
+frmTip = 139, 103, 627, 679, C, 0, 0, 0, 0, C
+frmResumen = 92, 105, 840, 681, CZ, 0, 0, 0, 0, C
+ContextIDs = 0, 0, 0, 0, C

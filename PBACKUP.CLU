@@ -1,0 +1,49 @@
+(In/Ex)clusion File for jory's VB EXE Obfuscator
+-------------------------------------------------
+Application: pbackup.exe
+Last Edited: 03:40:03 p.m. on 22-01-02
+
+Edit this file according to your needs
+
+Position 1: (+) = Include, (-) = Exclude
+ Wildcards: (*, ?) can be used in object names
+
+<BEGIN>
++Form
++Form1
++Label1
++Label4
++clsGradient
++frmAccion
++frmAcerca
++frmConfOpc
++frmMain
++imgFiles
++imgMain
++lblArchivo
++lblCopyright
++lblDescrip
++lblGlosa
++lblProduct
++lblURL
++mnuArchivo
++mnuArchivo_Abrir
++mnuArchivo_Proyecto
++mnuArchivo_Respaldar
++mnuArchivo_Salir
++mnuArchivo_sep1
++mnuArchivo_sep2
++mnuAyuda
++mnuAyuda_Acercade
++mnuAyuda_Indice
++mnuAyuda_sep1
++mnuEdicion
++mnuEdicion_Agregar
++mnuEdicion_Eliminar
++mnuEdicion_seleccionar
++mnuEdicion_sep1
++mnuOpciones
++mnuOpciones_ConfRespaldo
++picDraw
++picMain
++picObj
